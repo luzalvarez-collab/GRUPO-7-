@@ -24,7 +24,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="Recursos/Imagen/Captura de pantalla 2026-03-27 203805.png" width="90"/> | **Alvarez Ccoto, Luz** | Responsable de investigación | Análisis de datos, investigación tecnológica |
-| <img src="Recursos/Imagenes/franceska.jpeg" width="90"/> | **Rios Bolaños, Franceska** | Líder | Investigación ambiental y diseño de soluciones ecológicas |
+| <img src="Recursos/Imagen/WhatsApp Image 2026-03-27 at 8.39.55 PM.jpeg" width="90"/> | **Rios Bolaños, Franceska** | Líder | Investigación ambiental y diseño de soluciones ecológicas |
 | <img src="Recursos/Imagen/WIN_20260320_20_43_56_Pro.jpg" width="90"/> | **Espinoza Flores, Leonardo** | Diseñador | Diseño digital innovador y estético |
 | <img src="Recursos/Imagen/leonel (1).png" width="90"/> | **Sotelo, Leonel Willians** | Programador | Desarrollo de software, lógica de programación y creación de aplicaciones eficientes |
 
