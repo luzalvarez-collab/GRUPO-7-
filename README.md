@@ -27,3 +27,5 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="Recursos/Imagenes/franceska.jpeg" width="90"/> | **Rios Bolaños, Franceska** | Líder | Investigación ambiental y diseño de soluciones ecológicas |
 | <img src="Recursos/Imagen/WIN_20260320_20_43_56_Pro.jpg" width="90"/> | **Espinoza Flores, Leonardo** | Diseñador | Diseño digital innovador y estético |
 | <img src="Recursos/Imagenes/leonel.jpeg" width="90"/> | **Sotelo, Leonel Willians** | Programador | Desarrollo de software, lógica de programación y creación de aplicaciones eficientes |
+
+Este README presenta quiénes somos como equipo, qué nos motiva y en qué Objetivos de Desarrollo Sostenible enfocaremos nuestro trabajo a lo largo del curso.
