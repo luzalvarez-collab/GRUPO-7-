@@ -1,4 +1,5 @@
-# GRUPO-7- Grupo 7
+# GRUPO-7- Procesos de innovación para ingeniería 
+
 
 Carrera de Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial.
 Universidad Peruana Cayetano Heredia
