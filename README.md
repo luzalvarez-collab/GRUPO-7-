@@ -2,7 +2,7 @@
 
 
 ### Carrera de Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial.
-### Universidad Peruana Cayetano Heredia
+**Universidad Peruana Cayetano Heredia**
 
 ### Descripción del Equipo 
 Somos el equipo del curso Procesos de innovación para ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial.
